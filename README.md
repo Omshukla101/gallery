@@ -27,7 +27,7 @@ This project showcases a responsive and interactive image gallery built with van
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd [project directory]
+    cd [https://omshukla101.github.io/gallery/gellary.html]
     ```
 
 3.  **Open `gallery.html` in your web browser.**
