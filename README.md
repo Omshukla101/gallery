@@ -21,7 +21,7 @@ This project showcases a responsive and interactive image gallery built with van
 1.  **Clone the repository:**
 
     ```bash
-    git clone []
+    git clone [https://github.com/Omshukla101/gallery/blob/main]
     ```
 
 2.  **Navigate to the project directory:**
